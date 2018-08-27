@@ -1,4 +1,4 @@
 ---
-- src: https://github.com/nginxinc/ansible-role-nginx
+- src: git@github.com:nginxinc/ansible-role-nginx.git
   version: master
   name: nginxinc.nginx
