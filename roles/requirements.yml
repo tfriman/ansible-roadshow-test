@@ -1,8 +1,5 @@
 ---
-- src: git@github.com:nginxinc/ansible-role-nginx.git
+- src: https://github.com:nginxinc/ansible-role-nginx.git
   version: master
   name: nginxinc.nginx
   
-- src: git@github.com:geerlingguy/ansible-role-memcached.git
-  version: master
-  name: geerlingguy.memcached
